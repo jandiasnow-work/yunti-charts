@@ -16,6 +16,7 @@ export default defineConfig({
       'antd': 'var window.antd',
       'react-dom': 'var window.ReactDOM',
       'prop-types': 'var window.PropTypes',
+      "@antv/g2": "var window.G2"
     },
   },
 });

@@ -100,6 +100,7 @@
     "@yuntijs/lint": "^1.4.0",
     "antd": "^5.12.5",
     "antd-style": "^3",
+    "@antv/g2": "^5.1.14",
     "babel-plugin-antd-style": "latest",
     "commitlint": "^18",
     "dumi": "^2",
@@ -121,6 +122,9 @@
     "vitest": "latest"
   },
   "peerDependencies": {
+    "antd": ">=5",
+    "antd-style": ">=3",
+    "@antv/g2": ">=5",
     "react": ">=18",
     "react-dom": ">=18"
   },
@@ -136,6 +140,9 @@
         "/umd/index.min.js"
       ],
       "externals": {
+        "@antv/g2": ">=5",
+        "antd": ">=5",
+        "antd-style": ">=3",
         "react": ">=18"
       }
     }
