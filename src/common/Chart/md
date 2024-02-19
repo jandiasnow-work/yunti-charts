@@ -1,0 +1,31 @@
+
+1. 基础图表: 双轴，空状态，时间解析，多视图
+4. 高级用法：多视图，多轴图，交互(高亮，选择，刷选，索引，鱼眼，多视图联动)，智能可视化
+Scale
+Component(axis，legnd，tooltip，slider，title， slider)(自定义组件)
+6. 使用场景
+-------------------------
+1. 基础图表: 折线图，面积图，柱状图，饼图，环图，散点图，（分组 / 堆叠 图）
+2. 高级图表: 色块图，气泡图，雷达图，热力图，仪表盘，水波图 地图，词云，树图，关系图，箱线图，漏斗图，K线图，等
+3. 内置功能：黑暗模式适配，空状态，loading，自适应宽高，拖拽布局，按需加载，时间解析, 下载，
+4. 高级用法：多视图，多轴图，交互(高亮，选择，刷选，索引，鱼眼，多视图联动)，智能可视化，动画...
+5. 常用配置示例: 
+Data
+Mark
+Transform
+Scale
+Component(axis，legnd，tooltip，slider，title， slider)(自定义组件)
+Label
+Animation
+Interaction
+Theme
+-------------------
+Coordinate
+Composition
+Graph
+Geo
+Plugin
+Common
+6. 使用场景
+
+

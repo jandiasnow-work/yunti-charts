@@ -14,6 +14,12 @@ const themeConfig = {
         {
           description: 'CloudNative Components',
           openExternal: true,
+          title: 'Yunti UI',
+          url: 'https://github.com/yuntijs/yunti-ui',
+        },
+        {
+          description: 'Charts Components',
+          openExternal: true,
           title: 'Yunti Charts',
           url: 'https://github.com/yuntijs/yunti-charts',
         },
@@ -50,7 +56,7 @@ const themeConfig = {
       text: 'Github',
     },
     {
-      link: '/components/action-icon',
+      link: '/components/line-chart',
       text: 'Get Started',
       type: 'primary',
     },
@@ -72,6 +78,8 @@ const themeConfig = {
   name: 'Charts',
   nav: [
     { link: '/components/line-chart', title: 'Components' },
+    { link: '/examples/loading', title: 'Examples' },
+    { link: 'https://g2.antv.antgroup.com/api/overview', title: 'API' },
     { link: '/changelog', title: 'Changelog' },
   ],
   socialLinks: {
